@@ -1,19 +1,9 @@
 # Hello
 
-<br>
- ##Markdown Syntax
+## Markdown Syntax
 
-<br>
-* Headers
-  <br>
-  #This is an <h1> tag
- <br>
-  ##This is an <h2> tag
-<br>
- 
+1. #Headers
+2. *Emphasis*
+3. ~~Strikethrough~~
   
- * Emphasis
- <br> 
-  *This text will be italic*
-<br>
   :smile:
